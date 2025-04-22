@@ -10,7 +10,7 @@ import java.sql.*;
 
 /**
  *
- * @author Acer
+ * @author Ajay Gunti
  */
 public class Queries {
     public static ResultSet rs;
