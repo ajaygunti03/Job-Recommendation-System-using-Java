@@ -1,3 +1,8 @@
+<%-- 
+    Document   : CampanyLAction
+    Created on : 7 Dec, 2024, 7:41:21 AM
+    Author     : @AJAY GUNTI
+--%>
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="com.database.Queries"%>
